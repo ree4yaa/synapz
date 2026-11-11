@@ -1,4 +1,4 @@
-# 🧠 Synapz
+# Synapz
 ### Think. Play. Challenge Yourself.
 
 <p align="center">
@@ -8,11 +8,11 @@
   <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
-## 🚀 About
+## About
 
 Synapz is an AI-powered interactive quiz platform that makes learning more engaging through gamification and dynamic question generation. Powered by Google's Gemini API, it offers varied questions and an interactive experience beyond traditional static quizzes.
 
-## ✨ Features
+## Features
 
 - 🤖 AI-powered dynamic question generation using Gemini API.
 - 🎮 Interactive, game-inspired quiz experience.
@@ -21,13 +21,13 @@ Synapz is an AI-powered interactive quiz platform that makes learning more engag
 - 📊 Quiz performance evaluation.
 - 🌌 Modern dark-themed, glassmorphism-inspired UI.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** React, TypeScript, CSS
 - **Build Tool:** Vite
 - **AI Integration:** Google Gemini API
 
-## ⚙️ Getting Started
+## Getting Started
 
 ```bash
 # Clone the repository
